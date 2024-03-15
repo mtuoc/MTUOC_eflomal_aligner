@@ -37,7 +37,7 @@ options:
                         The output priors file that will be generated after the alignment. If not stated, the priors
                         files will be called eflomal.priors.
   --limit LIMIT         The limit of sentences to process.
-'``
+```
 
 If we need to align de train corpora: train.sp.en and train.sp.es, we should write`:
 
